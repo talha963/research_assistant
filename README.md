@@ -153,9 +153,9 @@ pip install -r requirements.txt
 
 AI & Software Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/talha963
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/talha-habib-b562b4307/)
 
 ---
 
