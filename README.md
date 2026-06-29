@@ -155,7 +155,7 @@ AI & Software Engineering Student
 
 GitHub: https://github.com/talha963
 
-LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/talha-habib-b562b4307/)
+LinkedIn: https://www.linkedin.com/in/talha-habib-b562b4307/
 
 ---
 
